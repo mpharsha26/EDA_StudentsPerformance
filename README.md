@@ -1,11 +1,13 @@
 # EDA_StudentsPerformance
 ### Things done under this analysis :
 - Analysed insights in the dataset.
-- Understood the connection between the variables and to uncover the underlying structure.
+- Understood the connection between the variables and uncovered the underlying structure.
 - Extracted the import Variables.
 - Detected anomalies.
+- Checked for any missing data with the help of heatmap.
 - Tested the underlying assumptions.
 - Provided insights with Suitable Graphs and Visualizations.
+- Visualizations are done using pie charts, box plots, violen plots etc.
 
 ### Independent variables and their explanation:
 - gender                                     : Gender of the student
